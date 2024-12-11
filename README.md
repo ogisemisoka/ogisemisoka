@@ -1,4 +1,4 @@
-# 📊 Jane Doe
+# 📊 Ogise Misoka Stephen
 
 **Data Enthusiast | Programmer | IT Specialist**
 
