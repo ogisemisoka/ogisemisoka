@@ -44,7 +44,7 @@ Creating interactive dashboards to visualize complex datasets using advanced vis
 
 ## Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/janedoe](https://linkedin.com/in/ogise-misoka-762505285)
+- **LinkedIn:** [linkedin.com/in/ogisemisoka](https://linkedin.com/in/ogise-misoka-762505285)
 - **Email:** misokasteve@gmail.com
 - **Blog:** [techinsightsphere.com](https://techinsightsphere.com)
 
