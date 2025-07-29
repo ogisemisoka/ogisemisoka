@@ -8,7 +8,7 @@ Hello. I'm Ogise Misoka, a devoted professional with a deep passion for statisti
 
 ## About Me
 
-- **👨‍💻 IT Professional** with extensive experience in system administration, network management, and cybersecurity.
+- **👨‍💻 IT Professional** with intermediate experience in system administration and cybersecurity.
 - **📊 Statistician** skilled in applying statistical methods to solve real-world problems and uncover insights.
 - **💻 Programmer** proficient in various programming languages and always eager to learn new technologies.
 
@@ -16,13 +16,13 @@ Hello. I'm Ogise Misoka, a devoted professional with a deep passion for statisti
 
 ## Skills
 
-- **Languages:** Python, R, Java, C++
+- **Languages:** Python, R
 - **Data Analysis:** SPSS, Pandas, NumPy, SciPy, Stata
-- **Visualization:** Tableau, Matplotlib, Seaborn, ggplot2
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Database Management:** MySQL, PostgreSQL, MongoDB
+- **Visualization:** Tableau, Matplotlib, Microsoft Power BI
+- **Machine Learning:** Scikit-learn, TensorFlow
+- **Database Management:** MySQL
 - **Cloud Platforms:** Azure, Google Cloud, AWS
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js
+- **Web Development:** HTML
 
 ---
 
