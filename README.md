@@ -1,4 +1,4 @@
-# 📊 Ogise Misoka Stephen
+# 📊 Ogise Misoka
 
 **Data Enthusiast | Programmer | IT Specialist**
 
@@ -21,8 +21,7 @@ Hello. I'm Ogise Misoka, a devoted professional with a deep passion for statisti
 - **Visualization:** Tableau, Matplotlib, Microsoft Power BI
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Database Management:** MySQL
-- **Cloud Platforms:** Azure, Google Cloud, AWS
-- **Web Development:** HTML
+- **Cloud Platforms:** Google Cloud, AWS
 
 ---
 
@@ -52,7 +51,7 @@ Feel free to explore my projects and connect with me for collaborations, discuss
 
 ---
 
-**"The goal is to turn data into information, and information into insight." – Carly Fiorina**
+"The goal is to turn data into information, and information into insight." 
 
 
 
